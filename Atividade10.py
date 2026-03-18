@@ -22,4 +22,4 @@ print("media da corente", media)
 if sobrecarga:
     print (f"houve sobrecarga no motor {acima_20} vezes")
 if alerta:
-    print (f"alerta: medição ultrapassou 200 {acima_200} vezes")
+    print (f"alerta: medição ultrapassou 200 {acima_200} vezes") q
